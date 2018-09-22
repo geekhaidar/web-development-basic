@@ -98,6 +98,7 @@ Installing  Github
 
 
 Reference websites:
+*	https://www.w3schools.com/js/js_htmldom.asp
 *	https://developer.mozilla.org/en-US/docs/web/Events
 *	https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
 *	https://jquery.com/
